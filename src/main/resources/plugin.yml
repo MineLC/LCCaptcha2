@@ -1,3 +1,7 @@
-name: LCCaptcha2
-version: '${version}'
+name: Captcha
+version: 2.0
 main: lc.captcha2.LCCaptcha2
+commands:
+  captcha:
+    description: captcha
+    aliases: captcha
